@@ -1,34 +1,28 @@
-# Hi, I'm a Software Engineering Student 👋
+# Olá! Eu sou Macio Alves 👋
 
-🎓 Software Engineering student at Universidade Católica de Brasília (UCB), currently seeking internship and entry-level opportunities in Brazil.
+🎓 Estudante de Engenharia de Software na Universidade Católica de Brasília (UCB).
 
-💻 Interested in software development, data analytics, artificial intelligence, and automation.
+💻 Estou desenvolvendo minhas habilidades em programação, banco de dados e desenvolvimento de software.
 
-🌎 Building my technical skills and practical experience with the long-term goal of working with international teams.
+### 🚀 Atualmente estudando
+- Java e Programação Orientada a Objetos (POO)
+- SQL e MySQL
+- Python
+- Power BI
+- Git e GitHub
 
-### Currently Learning
+### 🎯 Objetivos
+- Conquistar uma oportunidade de estágio em tecnologia.
+- Desenvolver projetos práticos e aprimorar minha capacidade de resolver problemas.
+- Explorar áreas como análise de dados, inteligência artificial e automação.
+- Construir uma base técnica sólida para futuras oportunidades internacionais.
 
-- Java and Object-Oriented Programming
-- SQL and MySQL
-- Web Development
-- Data Analytics and Power BI
-- Git and GitHub
+### 🛠️ Tecnologias e ferramentas
+Java • MySQL • Git • GitHub
 
-### Career Goals
+### 📌 Projetos
+Em desenvolvimento — em breve, projetos práticos documentados estarão destacados aqui.
 
-- Gain practical experience through internships and real-world projects.
-- Develop reliable, maintainable software and improve my problem-solving skills.
-- Build a strong technical portfolio and collaborate with developers.
-- Prepare for international career opportunities.
-
-### Technologies & Tools
-
-Java · MySQL · JavaScript · HTML · CSS · Git · GitHub
-
-### Languages
-
-- Portuguese — Native
-- English — [Add your current proficiency level]
 
 
 
